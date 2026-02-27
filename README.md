@@ -1,1 +1,7 @@
-# PruebaGit
+# Adivino tu nombre
+
+- mkdir
+
+- ls
+
+- cd
